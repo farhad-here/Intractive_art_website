@@ -1,4 +1,5 @@
-# 🛰️Intractive_art_website
+# 🛰️Intractive art website(just front-end)
+## ⛑️It is a responsive website
 🚡It is a website(front-end) for developers to show their front-end projects.
 
 ---
