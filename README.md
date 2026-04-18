@@ -1,7 +1,7 @@
 # 🛰️Intractive art website(just front-end)
-## ⛑️It is a responsive website
-🚡It is a website(front-end) for developers to show their front-end projects.
-
+🚡It is my fornt-end's course project which is about a website template.
+## ⛑️Information:
+- responsive ✔️
 ---
 
 ## 🛰️<a href='https://farhad-here.github.io/Intractive_art_website/'>Live</a>
